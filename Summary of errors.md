@@ -43,7 +43,7 @@
 
 好了起因又是我看人家论文里面的图很酷炫想画一个，譬如
 
-![1587028313841](D:\study\GitHub\Deep-Reinforcement-Learning\laji\1587028313841.png)
+![1587028313841](https://github.com/drarryon/Deep-Reinforcement-Learning/blob/master/laji/1587028313841.png)
 
 来自https://arxiv.org/abs/1802.09477v1
 
