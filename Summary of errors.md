@@ -43,13 +43,13 @@
 
 好了起因又是我看人家论文里面的图很酷炫想画一个，譬如
 
-![1587028313841](C:\Users\annsy\AppData\Roaming\Typora\typora-user-images\1587028313841.png)
+![1587028313841](D:\study\GitHub\Deep-Reinforcement-Learning\laji\1587028313841.png)
 
 来自https://arxiv.org/abs/1802.09477v1
 
 然后我兴冲冲地下载了大佬的代码然后开始跑……大佬只给了算法代码（~~白嫖画图代码失败~~）……然后就开始百度如何绘制这样的曲线，了解到可以用seaborn，然后找到教程，load刚用大佬的代码跑出来的数据，并没有那种酷炫的效果。原因是数据的time是唯一的，并没有置信区间，需要增加更多行。这个问题是男朋友在看了官方给的数据样例想到的，赞美他！以下是我们画出来的效果，蓝色是大佬的结果（~~多么希望我的算法也可以快点跑出来这样的曲线~~），橘色是随机生成的数。
 
-![1587028773507](C:\Users\annsy\AppData\Roaming\Typora\typora-user-images\1587028773507.png)
+![1587028773507](D:\study\GitHub\Deep-Reinforcement-Learning\laji\1587028773507.png)
 
 未完待续……（真的不想再看到error了QAQ）
 
